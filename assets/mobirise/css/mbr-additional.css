@@ -1,41 +1,70 @@
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #d14841;
 }
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#menu-0 .mbr-brand__name a {
-  font-size: 24px;
-  font-family: 'Merriweather', serif;
+#msg-box4-1 .mbr-header__text {
+  color: #ffffff;
 }
-#header1-1 H1 {
-  font-size: 32px;
+#msg-box4-1 .mbr-header__subtext {
+  color: #ffffff;
 }
-#header1-1 DIV {
-  text-align: left;
+#msg-box4-1 .mbr-article {
+  color: #ffffff;
 }
-#header3-13 H3 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 25px;
+#msg-box3-3 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #4a4846;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+  color: #4d4c4a;
 }
-#content1-11 P {
-  text-align: center;
-}
-#content1-11 UL {
+#msg-box3-3 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#features1-3 P {
+#msg-box3-3 .mbr-article P {
+  text-align: center;
+  color: #777777;
+}
+#msg-box3-5 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-size: 20px;
+  color: #ef7648;
+}
+#msg-box3-5 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#content1-14 P {
+#msg-box3-6 .mbr-header .mbr-header__text {
   text-align: center;
+}
+#msg-box3-6 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-6 .mbr-article P {
+  text-align: center;
+}
+#features1-7 .mbr-section__col .mbr-header__text {
+  color: #4d4c4a;
+}
+#msg-box3-8 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #4d4c4a;
+}
+#msg-box3-8 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-8 .mbr-article P {
+  text-align: center;
+}
+#features1-11 P {
+  font-size: 14px;
+}
+#features1-11 .mbr-section__col .mbr-header__text DIV {
+  text-align: center;
+  font-size: 16px;
 }
