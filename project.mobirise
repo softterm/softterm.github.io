@@ -9,7 +9,8 @@
       "title": "Mobirise"
     },
     "publishType": "local",
-    "publishPath": "file:///Users/chooda/dev/softterm/softterm.github.io"
+    "publishPath": "file:///Users/chooda/dev/softterm/softterm.github.io",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x120-37.png"
   },
   "pages": {
     "index.html": {
