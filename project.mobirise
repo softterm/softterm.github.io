@@ -994,13 +994,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>CONTACTS</strong></p><p class=\"mbr-contacts__text\"><strong>Email: support@mobirise.com</strong></p><p class=\"mbr-contacts__text\"><strong>Phone: +1 (0) 000 0000 001</strong></p><p class=\"mbr-contacts__text\"><strong>Fax: +1 (0) 000 0000 002</strong></p><ul class=\"mbr-contacts__list\"></ul>",
+          "text1": "Общество с Ограниченной Ответственностью <br>“Комплекс Сервис”<br>Приднестровская Молдавская Республика, MD-3300, г. Тирасполь, ул. Украинская, дом 11а. Ф.К. 0200042396<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>КОНТАКТЫ</b></p><p class=\"mbr-contacts__text\"><b>Телефоны: +373 (777) 69495&nbsp;</b><b style=\"line-height: 1.7em;\">+373 68830081</b></p><p class=\"mbr-contacts__text\"><b>Email: komplexservis2014@mail.ru</b></p><ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "dev@chudnyi.com",
+            "action": "komplexservis2014@mail.ru",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Спасибо! Мы свяжемся с вами в ближайшее время."
             },
             "fields": {
               "name": {
@@ -1020,7 +1020,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Сообщение"
               }
             }
           },
